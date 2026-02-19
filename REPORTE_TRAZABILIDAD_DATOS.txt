@@ -1,0 +1,36 @@
+=====================================================================
+            INFORME DE PROYECTO - DIPLOMADO DISEÑO WEB
+      SISTEMA PARA EL REGISTRO Y TRAZABILIDAD DE RECEPCIÓN
+=====================================================================
+
+DATOS DEL PARTICIPANTE:
+- Nombre y Apellido: Alexis Kaulis López Garcia
+- Cédula: 30916062
+- Título del Proyecto: Sistema para el registro y trazabilidad de 
+  recepción de mercancía ("El Morocho")
+
+1. FUNCIONALIDADES CRUD Y PROCESOS:
+---------------------------------------------------------------------
+My sistema cumple con el 100% de los requerimientos funcionales:
+- INSERTAR: Registro de entrada de mercancía con validaciones exactas.
+- LISTAR/CONSULTAR: Dashboard dinámico con visualización de registros.
+- MODIFICAR: Edición de facturas con actualización inmediata.
+- ELIMINAR: Borrado lógico/físico de registros.
+- BITÁCORA: Módulo avanzado de trazabilidad que registra automáticamente 
+  quién, cuándo y qué acción realizó (INSERT, UPDATE, DELETE).
+
+2. ESPECIFICACIONES TÉCNICAS:
+---------------------------------------------------------------------
+- Frontend: React + TypeScript (Diseño responsivo con Tailwind CSS).
+- Base de Datos: Supabase / PostgreSQL (Relacional).
+- Seguridad: Autenticación segura y manejo de Roles de Usuario.
+
+3. CONTENIDO DE LA CARPETA ADJUNTA en Github:
+---------------------------------------------------------------------
+- [facturas_rows.sql]: Script con la estructura de tabla y 5 registros.
+- [bitacora_rows.sql]: Script con la estructura de la bitácora y las inserciones.
+- [DATOS_PROYECTO.txt]: Este informe detallado.
+
+=====================================================================
+  PROYECTO DESARROLLADO PARA LA INNOVACIÓN EN CONTROL DE INVENTARIO
+=====================================================================
