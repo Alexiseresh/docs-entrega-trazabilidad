@@ -30,7 +30,3 @@ My sistema cumple con el 100% de los requerimientos funcionales:
 - [facturas_rows.sql]: Script con la estructura de tabla y 5 registros.
 - [bitacora_rows.sql]: Script con la estructura de la bitácora y las inserciones.
 - [DATOS_PROYECTO.txt]: Este informe detallado.
-
-=====================================================================
-  PROYECTO DESARROLLADO PARA LA INNOVACIÓN EN CONTROL DE INVENTARIO
-=====================================================================
