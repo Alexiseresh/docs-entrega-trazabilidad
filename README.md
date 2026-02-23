@@ -1,6 +1,6 @@
 Proyecto desarrollado para el **Módulo II del Diplomado de Diseño Web**. Este sistema gestiona la recepción de mercancía y mantiene una auditoría estricta de cada operación.
 
-<img width="1366" height="767" alt="home" src="https://github.com/user-attachments/assets/855e5a52-4fe5-41e8-b9a0-b06cdf1550bf" />
+<img width="1366" height="767" alt="home" src="https://github.com/user-attachments/assets/229c8eaf-816f-4627-8cac-f48a974315fc" />
 
 ## 🛠️ Stack Tecnológico
 * **Frontend:** React + TypeScript + Tailwind CSS.
