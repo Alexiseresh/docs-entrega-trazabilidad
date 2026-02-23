@@ -16,6 +16,7 @@ Proyecto desarrollado para el **Módulo II del Diplomado de Diseño Web**. Este 
 ## 📂 Estructura de este Repositorio
 * `facturas_rows.sql`: Estructura y datos de mercancía.
 * `bitacora_rows.sql`: Estructura e historial de auditoría.
+* `perfiles_rows.sql`: Estructura.
 * `DATOS_PROYECTO.txt`: Información de acceso para evaluación.
 
 ## 🗄️ Estructura de Base de Datos (Supabase)
